@@ -1,0 +1,14 @@
+{
+  "name": "Barangay Incident Response System (BIRS)",
+  "description": "A high-converting incident reporting and real-time analytics platform for barangay management.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "Real-time Incident Tracking",
+    "Admin Analytics Dashboard",
+    "Evidence Upload Management",
+    "Role-Based Access Control"
+  ]
+}
